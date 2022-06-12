@@ -3,4 +3,7 @@ www.reddit.com##xpromo-nsfw-blocking-modal
 www.reddit.com##.m-active.XPromoBlockingModal
 www.reddit.com##.m-blurred:style(filter:none !important)
 www.reddit.com##.sidebar-grid:style(filter:none !important)
+www.reddit.com##shreddit-experience-tree
+www.reddit.com##.scroll-is-blocked:style(overflow:visible !important)
+
 
