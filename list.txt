@@ -1,0 +1,6 @@
+! 2022-06-12 https://www.reddit.com
+www.reddit.com##xpromo-nsfw-blocking-modal
+www.reddit.com##.m-active.XPromoBlockingModal
+www.reddit.com##.m-blurred:style(filter:none !important)
+www.reddit.com##.sidebar-grid:style(filter:none !important)
+
